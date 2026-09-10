@@ -1,4 +1,8 @@
 
+ <div align="center">
+   
+  ꒷︶꒷ ![Profile Views](https://komarev.com/ghpvc/?username=Yallternative&color=730800) ꒥꒷︶˚
+   
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN5ZHJpMjg5MWcxamw2eG9ycnVmYnU1djZubXE2c3pzdXI2b2ZwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/La1hNty6HvUSGRClYX/giphy.gif" width="600" height="300"/>
 </div>
@@ -9,7 +13,7 @@
 
  <div align="center">
 
- 
+
 
 ִֶָ . ..𓂃 ࣪ ִֶָ🦇་༘࿐
  
