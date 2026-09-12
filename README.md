@@ -1,7 +1,7 @@
 
  <div align="center">
    
-  ꒷︶꒷ ![Profile Views](https://komarev.com/ghpvc/?username=Yallternative&color=730800) ꒥꒷︶˚
+  ꒷︶꒷ ![Profile Views](https://komarev.com/ghpvc/?username=Yallternative&label=Dogs+++&color=730800) ꒥꒷︶˚
    
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN5ZHJpMjg5MWcxamw2eG9ycnVmYnU1djZubXE2c3pzdXI2b2ZwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/La1hNty6HvUSGRClYX/giphy.gif" width="600" height="300"/>
@@ -15,7 +15,7 @@
 
 
 
-ִֶָ . ..𓂃 ࣪ ִֶָ🦇་༘࿐
+⫘⫘⫘
  
 <p>
 <details>
@@ -78,3 +78,7 @@ Most of my friends/old friends were in a lot of drama on ponytown, please keep i
 
    - and more, Just ask. Usually in skins of things I enjoy.
  </details>
+
+<div id="header" align="center">
+<img src="https://cdn.phototourl.com/free/2026-09-12-6f6fa861-b522-42e5-b887-a8c365365019.jpg" width="600" height="300"/>
+</div>
