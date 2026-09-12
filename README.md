@@ -79,6 +79,4 @@ Most of my friends/old friends were in a lot of drama on ponytown, please keep i
    - and more, Just ask. Usually in skins of things I enjoy.
  </details>
 
-<div id="header" align="center">
-<img src="https://cdn.phototourl.com/free/2026-09-12-6f6fa861-b522-42e5-b887-a8c365365019.jpg" width="600" height="300"/>
-</div>
+
