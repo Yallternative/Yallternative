@@ -79,4 +79,8 @@ Most of my friends/old friends were in a lot of drama on ponytown, please keep i
    - and more, Just ask. Usually in skins of things I enjoy.
  </details>
 
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lxz5zrwp6dvxr3w5xxobhvwoqq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=fa0000&bar_color_cover=false">
+  </a>
+</p>
