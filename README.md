@@ -7,6 +7,12 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN5ZHJpMjg5MWcxamw2eG9ycnVmYnU1djZubXE2c3pzdXI2b2ZwMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/La1hNty6HvUSGRClYX/giphy.gif" width="600" height="300"/>
 </div>
 
+<div align="center">
+ 
+$\color{#dd020a}\textsf{Come on somebody,}$ $\color{#ac0613}\textsf{why don't you run?}$
+
+$\color{#7e0812}\textsf{Ol' Red's itchin'}$ $\color{#52070d}\textsf{to have a little fun}$
+
   <div align="center">
 <div style="margin:4px 0;">
 <a href="https://simonriley.crd.co">CARRD</a> ֶ࣪ ִֶָ☾. <a href="https://yallternative.atabook.org">SIGN ATA!</a>
