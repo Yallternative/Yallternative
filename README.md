@@ -35,6 +35,8 @@ $\color{#7e0812}\textsf{Ol' Red's itchin'}$ $\color{#52070d}\textsf{to have a li
   <summary> 𝐁𝐘𝐈 </summary>
   
   ### 
+
+I don't talk a lot and mostly respond in whispers, I'm a bit awkward, but can open up pretty quickly once we talk a bit. 
   
 I am unfiltered and I come across as rude more often than not, do not come to me for comfort.
 
